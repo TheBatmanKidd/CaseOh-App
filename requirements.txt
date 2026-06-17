@@ -1,0 +1,5 @@
+pyautogui
+PyOpenGL
+PyOpenGL_accelerate
+Pillow
+pygame
